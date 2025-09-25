@@ -19,3 +19,4 @@ jobs:
           azure_static_web_apps_api_token: ${{ secrets.AZURE_STATIC_WEB_APPS_API_TOKEN_RED_SKY_0E58D3F10 }}
           app_location: "MHT_GWP/Mht_GWP"   # thư mục chứa Mht_GWP.csproj
           output_location: "wwwroot" 
+
