@@ -1,6 +1,7 @@
 name: Build & Deploy to Azure Static Web Apps (Blazor WASM)
 
 on:
+  workflow_dispatch:   # cho phép chạy tay từ UI/CLI
   push: { branches: [ main ] }
   pull_request:
     types: [opened, synchronize, reopened, closed]
