@@ -20,3 +20,4 @@ jobs:
           app_location: "MHT_GWP/Mht_GWP"   # thư mục chứa Mht_GWP.csproj
           output_location: "wwwroot" 
 
+
